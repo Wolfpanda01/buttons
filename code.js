@@ -106,7 +106,7 @@ function btrBlastOff() {
     }
 }
 function start(){
-    console.log("start () function started");
+    console.log("start() function started");
     document.getElementById("startButton").disabled = true;
     document.getElementById("stopButton").disabled = false;
     }
